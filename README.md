@@ -1,2 +1,2 @@
-# marketing
+# Marketing
 ML Solutions for Marketing
